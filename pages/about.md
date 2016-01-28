@@ -10,7 +10,7 @@ image: /assets/img/about.jpg
 
 ### Mission
 
-The mission of GSA is to deliver the best value in real estate, acquisition, and technology services to government and the American people.
+The mission of GSA is to deliver the **best value** in real estate, acquisition, and technology services to government and the American people.
 
 ### History
 
